@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/saEngineering/static/css/main.590d617f.css",
+    "main.js": "/saEngineering/static/js/main.ab616614.js",
+    "static/js/453.c9c07775.chunk.js": "/saEngineering/static/js/453.c9c07775.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/saEngineering/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/saEngineering/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/saEngineering/index.html",
+    "main.590d617f.css.map": "/saEngineering/static/css/main.590d617f.css.map",
+    "main.ab616614.js.map": "/saEngineering/static/js/main.ab616614.js.map",
+    "453.c9c07775.chunk.js.map": "/saEngineering/static/js/453.c9c07775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.590d617f.css",
+    "static/js/main.ab616614.js"
+  ]
+}
